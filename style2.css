@@ -1,0 +1,462 @@
+body{
+	background-image: url("forest-931706.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: monospace;
+	
+}
+
+.main-nav
+{
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a 
+{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+}
+
+.main-nav li a:hover
+{
+	border-style: solid;
+	border: 1 px;
+}
+
+.logo img
+{
+	width: 150px;
+	height: auto;
+	float: left;
+	margin-top: 10px;
+}
+
+body
+{
+	font-family: monospace;
+}
+
+.row
+{
+	max-width: 1200px;
+	margin: auto;
+}
+
+.hero
+{
+	position: absolute;
+	width: 1200px;
+}
+
+h1
+{
+	position: absolute;
+	margin-top: 60px;
+	color: white;
+	text-transform: uppercase;
+	font-size: 50px;
+	text-align: center;
+	margin-left: 150px;
+}
+
+.btn-one
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 135px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-two
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 180px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-three
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 230px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-four
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 280px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-five
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 330px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-six
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 380px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-seven
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 430px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-eight
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 480px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-nine
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 135px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 300px; 	
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-ten
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 180px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 300px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-eleven
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 230px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 300px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-twelve
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 280px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 300px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-thirteen
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 330px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 300px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-fourteen
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 380px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 300px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-fifteen
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 430px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 300px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-sixteen
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 480px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 300px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-seventeen
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 135px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 600px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-eighteen
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 180px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 600px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-nineteen
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 230px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 600px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-twenty
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 280px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 600px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5)
+}
+
+.btn-twentyone
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 330px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 600px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-twentytwo
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 380px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 600px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-twentythree
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 430px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 600px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-twentyfour
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 480px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 600px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-twentyfive
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 180px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 900px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+.btn-twentysix
+{
+	padding: 5px 5px;
+	position: absolute;
+	margin-top: 135px;
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 900px;
+	border: 1px;
+	border-style: solid;
+	font-family: "Roboto", sans-serif;
+	box-shadow: -20px 20px 10px rgba(0,0,0,0.5);
+}
+
+
+.btn:hover
+{
+	background-color: darkorange;
+	transform: skew(1deg) translate(10px,-5px);
+	transition: 0.5s;
+}
+

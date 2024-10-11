@@ -1,0 +1,37 @@
+body{
+	background-image: url("forest-931706.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: monospace;
+	
+}
+
+.box{
+	max-width: 800px;
+	background: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	margin: auto;
+	margin-top:5px;
+	color: white;
+	font-family: "Roboto", sans-serif;
+}
+.box-img{
+	border-radius: 100%;
+	width: 350px;
+	height: 350px;
+}
+.box h1{
+	font-size: 60px;
+	letter-spacing: 2px;
+	font-weight: 100;
+}
+.box h4{
+	font-size: 30px;
+	letter-spacing: 3px;
+	font-weight: 100;
+}
+.box h3{
+	font-size: 25px;
+	letter-spacing: 2px;
+	font-weight: 100;
+}
